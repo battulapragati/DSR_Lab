@@ -1,0 +1,11 @@
+x<-1:10
+x
+seq(from=2,to=4)
+seq(from=4,to=2)
+seq(from=40,to=2,by=-2)
+seq(-4,4)
+y<-seq(-20,2,1)
+y
+x<-2
+seq(1,x,x/10)
+seq(1:10)
