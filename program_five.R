@@ -3,6 +3,8 @@ sales_delim<-read.delim("Mar_Basket_Software.csv.csv",sep=',')
 sales_delim
 vec<-c(2,3,4,5,6)
 sales<-(sales_delim)
+colnames(sales_delim)
+ncol(sales_delim)
 sales<-cbind(sales_delim,size=vec)
 sales
 ncol(sales)
