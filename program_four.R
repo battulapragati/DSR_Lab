@@ -16,4 +16,3 @@ summary(bank_data)
 age=bank_data[,"age"]
 income=bank_data[,"income"]
 plot(age,income)
-
