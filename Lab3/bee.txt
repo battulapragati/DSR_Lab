@@ -8,3 +8,5 @@ dt<-data.frame(Buff_Tail, Garden_bee, Red_Tail, Carder_bee, Honey_Bee)
 dt
 row.names(dt)<-c('Thistle','Vipers','Golden','Rain','Yellow')
 dt
+str(dt)
+colnames(dt)
