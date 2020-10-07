@@ -1,0 +1,931 @@
+"Id","Items","size"
+1,"AntiVirus",2
+1,"Game Console",3
+1,"Web Publishing",4
+1,"Project Mgmt",5
+2,"Visual Studio",6
+2,"AntiVirus",2
+2,"Game Console",3
+2,"Web Publishing",4
+3,"OS",5
+3,"Office Suite",6
+3,"Game Console",2
+3,"Web Publishing",3
+4,"OS",4
+4,"Office Suite",5
+4,"AntiVirus",6
+4,"Game Console",2
+4,"Web Publishing",3
+4,"Project Mgmt",4
+5,"Office Suite",5
+5,"Visual Studio",6
+5,"AntiVirus",2
+5,"Game Console",3
+5,"Web Publishing",4
+5,"Project Mgmt",5
+6,"OS",6
+6,"Office Suite",2
+6,"Visual Studio",3
+6,"Game Console",4
+6,"Web Publishing",5
+6,"Project Mgmt",6
+7,"OS",2
+7,"Office Suite",3
+7,"AntiVirus",4
+7,"Game Console",5
+7,"Web Publishing",6
+7,"Project Mgmt",2
+8,"OS",3
+8,"Office Suite",4
+8,"Visual Studio",5
+8,"Game Console",6
+8,"Web Publishing",2
+8,"Project Mgmt",3
+9,"Visual Studio",4
+9,"AntiVirus",5
+9,"Game Console",6
+9,"Web Publishing",2
+9,"Project Mgmt",3
+10,"Game Console",4
+10,"Web Publishing",5
+11,"OS",6
+11,"Office Suite",2
+11,"AntiVirus",3
+11,"Game Console",4
+11,"Web Publishing",5
+11,"Project Mgmt",6
+12,"Office Suite",2
+12,"Web Publishing",3
+13,"OS",4
+13,"Office Suite",5
+13,"Visual Studio",6
+13,"AntiVirus",2
+13,"Game Console",3
+13,"Web Publishing",4
+13,"Project Mgmt",5
+14,"OS",6
+14,"Office Suite",2
+14,"Visual Studio",3
+14,"AntiVirus",4
+14,"Game Console",5
+14,"Project Mgmt",6
+15,"Game Console",2
+16,"OS",3
+16,"Office Suite",4
+16,"AntiVirus",5
+16,"Game Console",6
+16,"Web Publishing",2
+16,"Project Mgmt",3
+17,"AntiVirus",4
+17,"Web Publishing",5
+18,"OS",6
+18,"Office Suite",2
+18,"Visual Studio",3
+18,"AntiVirus",4
+18,"Game Console",5
+18,"Web Publishing",6
+18,"Project Mgmt",2
+19,"OS",3
+19,"Visual Studio",4
+19,"AntiVirus",5
+19,"Game Console",6
+19,"Project Mgmt",2
+20,"Office Suite",3
+20,"Visual Studio",4
+20,"AntiVirus",5
+20,"Game Console",6
+20,"Web Publishing",2
+20,"Project Mgmt",3
+21,"Project Mgmt",4
+22,"OS",5
+22,"Office Suite",6
+22,"Visual Studio",2
+22,"AntiVirus",3
+22,"Game Console",4
+22,"Web Publishing",5
+22,"Project Mgmt",6
+23,"OS",2
+23,"Office Suite",3
+23,"Visual Studio",4
+23,"AntiVirus",5
+23,"Game Console",6
+23,"Web Publishing",2
+23,"Project Mgmt",3
+24,"Office Suite",4
+24,"AntiVirus",5
+24,"Game Console",6
+24,"Web Publishing",2
+25,"OS",3
+25,"Office Suite",4
+25,"Visual Studio",5
+25,"AntiVirus",6
+25,"Game Console",2
+25,"Web Publishing",3
+25,"Project Mgmt",4
+26,"Office Suite",5
+26,"Visual Studio",6
+26,"AntiVirus",2
+26,"Game Console",3
+26,"Web Publishing",4
+27,"OS",5
+27,"Office Suite",6
+27,"AntiVirus",2
+27,"Game Console",3
+27,"Web Publishing",4
+27,"Project Mgmt",5
+28,"Office Suite",6
+28,"Visual Studio",2
+28,"AntiVirus",3
+28,"Game Console",4
+28,"Web Publishing",5
+28,"Project Mgmt",6
+29,"Office Suite",2
+29,"Visual Studio",3
+29,"AntiVirus",4
+29,"Game Console",5
+29,"Web Publishing",6
+29,"Project Mgmt",2
+30,"OS",3
+30,"Office Suite",4
+30,"Visual Studio",5
+30,"AntiVirus",6
+30,"Game Console",2
+30,"Web Publishing",3
+30,"Project Mgmt",4
+31,"Office Suite",5
+31,"Visual Studio",6
+31,"AntiVirus",2
+32,"Office Suite",3
+32,"Visual Studio",4
+32,"AntiVirus",5
+32,"Game Console",6
+32,"Web Publishing",2
+32,"Project Mgmt",3
+33,"OS",4
+33,"Office Suite",5
+33,"AntiVirus",6
+33,"Game Console",2
+33,"Project Mgmt",3
+34,"Visual Studio",4
+34,"AntiVirus",5
+34,"Game Console",6
+34,"Web Publishing",2
+35,"Office Suite",3
+35,"Visual Studio",4
+35,"Game Console",5
+35,"Web Publishing",6
+35,"Project Mgmt",2
+36,"OS",3
+36,"Project Mgmt",4
+37,"OS",5
+37,"Office Suite",6
+37,"Visual Studio",2
+37,"AntiVirus",3
+37,"Game Console",4
+37,"Web Publishing",5
+37,"Project Mgmt",6
+38,"OS",2
+38,"Office Suite",3
+38,"Visual Studio",4
+38,"AntiVirus",5
+38,"Web Publishing",6
+38,"Project Mgmt",2
+39,"OS",3
+39,"Office Suite",4
+39,"Visual Studio",5
+39,"AntiVirus",6
+39,"Game Console",2
+39,"Web Publishing",3
+39,"Project Mgmt",4
+40,"Office Suite",5
+40,"Web Publishing",6
+41,"OS",2
+41,"Office Suite",3
+41,"Visual Studio",4
+41,"AntiVirus",5
+41,"Game Console",6
+41,"Web Publishing",2
+41,"Project Mgmt",3
+42,"Game Console",4
+42,"Project Mgmt",5
+43,"OS",6
+43,"Office Suite",2
+43,"AntiVirus",3
+43,"Game Console",4
+43,"Web Publishing",5
+44,"OS",6
+44,"Office Suite",2
+44,"AntiVirus",3
+44,"Web Publishing",4
+44,"Project Mgmt",5
+45,"Office Suite",6
+45,"Game Console",2
+45,"Project Mgmt",3
+46,"Office Suite",4
+46,"Visual Studio",5
+46,"AntiVirus",6
+46,"Game Console",2
+46,"Web Publishing",3
+46,"Project Mgmt",4
+47,"Office Suite",5
+47,"Visual Studio",6
+47,"AntiVirus",2
+47,"Game Console",3
+47,"Project Mgmt",4
+48,"Office Suite",5
+48,"Visual Studio",6
+48,"AntiVirus",2
+48,"Game Console",3
+48,"Project Mgmt",4
+49,"OS",5
+49,"Office Suite",6
+49,"Visual Studio",2
+49,"AntiVirus",3
+49,"Game Console",4
+49,"Web Publishing",5
+49,"Project Mgmt",6
+50,"OS",2
+50,"Office Suite",3
+50,"Visual Studio",4
+50,"AntiVirus",5
+50,"Game Console",6
+50,"Web Publishing",2
+50,"Project Mgmt",3
+51,"OS",4
+51,"Office Suite",5
+51,"AntiVirus",6
+51,"Web Publishing",2
+51,"Project Mgmt",3
+52,"Visual Studio",4
+52,"AntiVirus",5
+53,"OS",6
+53,"Office Suite",2
+53,"Visual Studio",3
+53,"AntiVirus",4
+53,"Game Console",5
+53,"Web Publishing",6
+53,"Project Mgmt",2
+54,"OS",3
+54,"Office Suite",4
+54,"Visual Studio",5
+54,"Project Mgmt",6
+55,"OS",2
+55,"Office Suite",3
+55,"Visual Studio",4
+55,"AntiVirus",5
+55,"Game Console",6
+55,"Web Publishing",2
+55,"Project Mgmt",3
+56,"OS",4
+56,"Office Suite",5
+56,"Visual Studio",6
+56,"Game Console",2
+56,"Web Publishing",3
+56,"Project Mgmt",4
+57,"OS",5
+57,"Office Suite",6
+57,"Visual Studio",2
+57,"AntiVirus",3
+57,"Game Console",4
+57,"Web Publishing",5
+57,"Project Mgmt",6
+58,"OS",2
+58,"Office Suite",3
+58,"Visual Studio",4
+58,"Game Console",5
+58,"Web Publishing",6
+58,"Project Mgmt",2
+59,"AntiVirus",3
+59,"Game Console",4
+60,"OS",5
+60,"Office Suite",6
+60,"AntiVirus",2
+60,"Web Publishing",3
+60,"Project Mgmt",4
+61,"OS",5
+61,"Office Suite",6
+61,"Visual Studio",2
+61,"AntiVirus",3
+61,"Game Console",4
+61,"Web Publishing",5
+61,"Project Mgmt",6
+62,"Office Suite",2
+62,"Project Mgmt",3
+63,"OS",4
+63,"Office Suite",5
+63,"Web Publishing",6
+64,"OS",2
+64,"Office Suite",3
+64,"Visual Studio",4
+64,"AntiVirus",5
+64,"Web Publishing",6
+64,"Project Mgmt",2
+65,"Web Publishing",3
+66,"Visual Studio",4
+66,"AntiVirus",5
+66,"Game Console",6
+66,"Web Publishing",2
+66,"Project Mgmt",3
+67,"OS",4
+67,"Office Suite",5
+67,"AntiVirus",6
+67,"Game Console",2
+67,"Web Publishing",3
+67,"Project Mgmt",4
+68,"OS",5
+68,"Office Suite",6
+68,"Visual Studio",2
+68,"AntiVirus",3
+68,"Game Console",4
+68,"Web Publishing",5
+68,"Project Mgmt",6
+69,"OS",2
+69,"Office Suite",3
+69,"Visual Studio",4
+69,"AntiVirus",5
+69,"Game Console",6
+69,"Web Publishing",2
+69,"Project Mgmt",3
+70,"OS",4
+70,"Office Suite",5
+70,"Visual Studio",6
+70,"AntiVirus",2
+70,"Game Console",3
+70,"Web Publishing",4
+70,"Project Mgmt",5
+71,"Office Suite",6
+71,"Game Console",2
+72,"Office Suite",3
+72,"Visual Studio",4
+73,"OS",5
+73,"Office Suite",6
+73,"Visual Studio",2
+73,"AntiVirus",3
+73,"Game Console",4
+73,"Web Publishing",5
+73,"Project Mgmt",6
+74,"OS",2
+74,"Office Suite",3
+74,"AntiVirus",4
+74,"Game Console",5
+74,"Web Publishing",6
+74,"Project Mgmt",2
+75,"OS",3
+75,"Visual Studio",4
+75,"AntiVirus",5
+75,"Game Console",6
+75,"Web Publishing",2
+75,"Project Mgmt",3
+76,"Game Console",4
+77,"Office Suite",5
+77,"Visual Studio",6
+77,"AntiVirus",2
+77,"Game Console",3
+77,"Web Publishing",4
+78,"Office Suite",5
+78,"Game Console",6
+79,"Office Suite",2
+79,"Visual Studio",3
+79,"AntiVirus",4
+79,"Game Console",5
+79,"Web Publishing",6
+79,"Project Mgmt",2
+80,"OS",3
+80,"Office Suite",4
+80,"Visual Studio",5
+80,"AntiVirus",6
+80,"Game Console",2
+80,"Web Publishing",3
+80,"Project Mgmt",4
+81,"OS",5
+81,"Office Suite",6
+81,"AntiVirus",2
+81,"Game Console",3
+81,"Web Publishing",4
+81,"Project Mgmt",5
+82,"OS",6
+82,"Office Suite",2
+82,"Visual Studio",3
+82,"AntiVirus",4
+82,"Game Console",5
+82,"Web Publishing",6
+82,"Project Mgmt",2
+83,"OS",3
+83,"Office Suite",4
+83,"Visual Studio",5
+83,"AntiVirus",6
+83,"Game Console",2
+83,"Web Publishing",3
+85,"OS",4
+85,"Office Suite",5
+85,"Visual Studio",6
+85,"Web Publishing",2
+85,"Project Mgmt",3
+86,"Office Suite",4
+87,"Office Suite",5
+87,"Web Publishing",6
+87,"Project Mgmt",2
+88,"OS",3
+88,"Office Suite",4
+88,"Visual Studio",5
+88,"Game Console",6
+88,"Web Publishing",2
+88,"Project Mgmt",3
+89,"Visual Studio",4
+89,"Web Publishing",5
+89,"Project Mgmt",6
+90,"OS",2
+90,"Office Suite",3
+90,"Visual Studio",4
+90,"AntiVirus",5
+90,"Game Console",6
+90,"Web Publishing",2
+90,"Project Mgmt",3
+91,"Web Publishing",4
+91,"Project Mgmt",5
+92,"Office Suite",6
+92,"AntiVirus",2
+93,"Office Suite",3
+93,"Visual Studio",4
+93,"AntiVirus",5
+93,"Game Console",6
+93,"Web Publishing",2
+93,"Project Mgmt",3
+94,"Office Suite",4
+94,"Game Console",5
+95,"Office Suite",6
+95,"Project Mgmt",2
+96,"OS",3
+96,"Office Suite",4
+96,"AntiVirus",5
+96,"Game Console",6
+96,"Web Publishing",2
+96,"Project Mgmt",3
+97,"OS",4
+97,"Office Suite",5
+97,"AntiVirus",6
+97,"Game Console",2
+97,"Web Publishing",3
+98,"OS",4
+98,"Visual Studio",5
+98,"AntiVirus",6
+98,"Game Console",2
+98,"Web Publishing",3
+98,"Project Mgmt",4
+99,"Office Suite",5
+99,"AntiVirus",6
+99,"Game Console",2
+99,"Web Publishing",3
+99,"Project Mgmt",4
+100,"Game Console",5
+101,"Office Suite",6
+101,"Project Mgmt",2
+102,"Game Console",3
+102,"Web Publishing",4
+102,"Project Mgmt",5
+103,"Office Suite",6
+103,"Game Console",2
+104,"Web Publishing",3
+105,"Office Suite",4
+105,"Visual Studio",5
+105,"Game Console",6
+106,"OS",2
+106,"Office Suite",3
+106,"Game Console",4
+106,"Web Publishing",5
+107,"OS",6
+107,"Office Suite",2
+107,"AntiVirus",3
+107,"Game Console",4
+107,"Web Publishing",5
+107,"Project Mgmt",6
+109,"AntiVirus",2
+109,"Web Publishing",3
+110,"OS",4
+110,"Office Suite",5
+110,"Visual Studio",6
+110,"AntiVirus",2
+110,"Game Console",3
+110,"Web Publishing",4
+110,"Project Mgmt",5
+111,"Visual Studio",6
+111,"AntiVirus",2
+111,"Game Console",3
+111,"Web Publishing",4
+111,"Project Mgmt",5
+112,"Office Suite",6
+112,"Web Publishing",2
+112,"Project Mgmt",3
+113,"Web Publishing",4
+113,"Project Mgmt",5
+114,"OS",6
+114,"Office Suite",2
+114,"Visual Studio",3
+114,"AntiVirus",4
+114,"Web Publishing",5
+114,"Project Mgmt",6
+115,"OS",2
+115,"Visual Studio",3
+115,"AntiVirus",4
+115,"Game Console",5
+115,"Web Publishing",6
+115,"Project Mgmt",2
+116,"Office Suite",3
+116,"Visual Studio",4
+116,"Game Console",5
+116,"Web Publishing",6
+116,"Project Mgmt",2
+117,"OS",3
+117,"Office Suite",4
+117,"Visual Studio",5
+117,"AntiVirus",6
+117,"Game Console",2
+117,"Web Publishing",3
+117,"Project Mgmt",4
+118,"OS",5
+118,"AntiVirus",6
+118,"Game Console",2
+118,"Project Mgmt",3
+119,"OS",4
+119,"Office Suite",5
+119,"Visual Studio",6
+119,"AntiVirus",2
+119,"Game Console",3
+119,"Project Mgmt",4
+120,"OS",5
+120,"Office Suite",6
+120,"Visual Studio",2
+120,"AntiVirus",3
+120,"Game Console",4
+120,"Web Publishing",5
+120,"Project Mgmt",6
+121,"Office Suite",2
+121,"AntiVirus",3
+121,"Game Console",4
+122,"Office Suite",5
+123,"Game Console",6
+123,"Web Publishing",2
+123,"Project Mgmt",3
+124,"OS",4
+124,"Office Suite",5
+124,"Visual Studio",6
+124,"AntiVirus",2
+124,"Game Console",3
+124,"Web Publishing",4
+124,"Project Mgmt",5
+125,"Office Suite",6
+125,"Game Console",2
+126,"Visual Studio",3
+126,"Web Publishing",4
+126,"Project Mgmt",5
+127,"OS",6
+127,"Office Suite",2
+127,"Visual Studio",3
+127,"AntiVirus",4
+127,"Game Console",5
+127,"Web Publishing",6
+127,"Project Mgmt",2
+128,"OS",3
+128,"Office Suite",4
+128,"Visual Studio",5
+128,"AntiVirus",6
+128,"Game Console",2
+128,"Web Publishing",3
+129,"OS",4
+129,"Office Suite",5
+129,"AntiVirus",6
+129,"Game Console",2
+129,"Web Publishing",3
+129,"Project Mgmt",4
+130,"Office Suite",5
+130,"Visual Studio",6
+130,"AntiVirus",2
+130,"Game Console",3
+130,"Web Publishing",4
+130,"Project Mgmt",5
+131,"Office Suite",6
+131,"AntiVirus",2
+131,"Game Console",3
+131,"Web Publishing",4
+132,"Office Suite",5
+132,"Visual Studio",6
+132,"AntiVirus",2
+132,"Game Console",3
+132,"Project Mgmt",4
+133,"Visual Studio",5
+133,"AntiVirus",6
+133,"Game Console",2
+133,"Web Publishing",3
+133,"Project Mgmt",4
+134,"Office Suite",5
+134,"Visual Studio",6
+134,"AntiVirus",2
+134,"Game Console",3
+134,"Web Publishing",4
+134,"Project Mgmt",5
+135,"OS",6
+135,"Office Suite",2
+135,"AntiVirus",3
+135,"Game Console",4
+136,"Office Suite",5
+136,"Visual Studio",6
+136,"Game Console",2
+136,"Web Publishing",3
+136,"Project Mgmt",4
+137,"Office Suite",5
+137,"Web Publishing",6
+137,"Project Mgmt",2
+138,"OS",3
+139,"OS",4
+139,"Office Suite",5
+139,"Game Console",6
+139,"Web Publishing",2
+139,"Project Mgmt",3
+140,"OS",4
+140,"Web Publishing",5
+140,"Project Mgmt",6
+141,"OS",2
+141,"Office Suite",3
+141,"Visual Studio",4
+141,"AntiVirus",5
+141,"Game Console",6
+141,"Web Publishing",2
+141,"Project Mgmt",3
+142,"Visual Studio",4
+142,"AntiVirus",5
+142,"Game Console",6
+142,"Web Publishing",2
+143,"OS",3
+143,"AntiVirus",4
+143,"Web Publishing",5
+144,"OS",6
+144,"Office Suite",2
+144,"AntiVirus",3
+144,"Game Console",4
+144,"Web Publishing",5
+145,"OS",6
+145,"Office Suite",2
+146,"OS",3
+146,"Office Suite",4
+146,"Visual Studio",5
+146,"AntiVirus",6
+146,"Game Console",2
+146,"Web Publishing",3
+146,"Project Mgmt",4
+147,"Web Publishing",5
+147,"Project Mgmt",6
+148,"Visual Studio",2
+148,"Game Console",3
+148,"Web Publishing",4
+148,"Project Mgmt",5
+149,"OS",6
+149,"Office Suite",2
+149,"Visual Studio",3
+149,"AntiVirus",4
+149,"Game Console",5
+149,"Web Publishing",6
+149,"Project Mgmt",2
+150,"Visual Studio",3
+150,"AntiVirus",4
+150,"Web Publishing",5
+151,"OS",6
+151,"Office Suite",2
+151,"Visual Studio",3
+151,"AntiVirus",4
+151,"Game Console",5
+151,"Web Publishing",6
+151,"Project Mgmt",2
+152,"Office Suite",3
+152,"Game Console",4
+153,"Office Suite",5
+153,"Visual Studio",6
+153,"AntiVirus",2
+153,"Game Console",3
+153,"Web Publishing",4
+153,"Project Mgmt",5
+154,"Project Mgmt",6
+155,"Office Suite",2
+155,"AntiVirus",3
+155,"Game Console",4
+155,"Web Publishing",5
+156,"OS",6
+156,"Office Suite",2
+156,"Visual Studio",3
+156,"AntiVirus",4
+156,"Game Console",5
+156,"Web Publishing",6
+156,"Project Mgmt",2
+157,"OS",3
+157,"Office Suite",4
+157,"Visual Studio",5
+157,"AntiVirus",6
+157,"Web Publishing",2
+157,"Project Mgmt",3
+158,"OS",4
+158,"Office Suite",5
+158,"Visual Studio",6
+158,"AntiVirus",2
+158,"Game Console",3
+158,"Web Publishing",4
+158,"Project Mgmt",5
+159,"OS",6
+159,"Office Suite",2
+159,"AntiVirus",3
+159,"Game Console",4
+159,"Web Publishing",5
+159,"Project Mgmt",6
+160,"OS",2
+160,"Office Suite",3
+160,"Visual Studio",4
+160,"AntiVirus",5
+160,"Game Console",6
+160,"Web Publishing",2
+160,"Project Mgmt",3
+161,"Office Suite",4
+161,"Visual Studio",5
+161,"AntiVirus",6
+161,"Game Console",2
+161,"Web Publishing",3
+161,"Project Mgmt",4
+162,"OS",5
+162,"Office Suite",6
+162,"Visual Studio",2
+162,"AntiVirus",3
+162,"Game Console",4
+162,"Web Publishing",5
+162,"Project Mgmt",6
+163,"OS",2
+163,"Office Suite",3
+163,"Visual Studio",4
+163,"AntiVirus",5
+163,"Game Console",6
+163,"Web Publishing",2
+163,"Project Mgmt",3
+164,"Office Suite",4
+164,"Game Console",5
+164,"Project Mgmt",6
+165,"AntiVirus",2
+165,"Game Console",3
+166,"Visual Studio",4
+166,"Game Console",5
+166,"Web Publishing",6
+166,"Project Mgmt",2
+167,"OS",3
+167,"AntiVirus",4
+167,"Game Console",5
+167,"Web Publishing",6
+167,"Project Mgmt",2
+168,"AntiVirus",3
+169,"OS",4
+169,"Office Suite",5
+169,"Visual Studio",6
+169,"AntiVirus",2
+169,"Game Console",3
+169,"Web Publishing",4
+169,"Project Mgmt",5
+170,"Office Suite",6
+170,"Project Mgmt",2
+171,"OS",3
+171,"Office Suite",4
+171,"Visual Studio",5
+171,"AntiVirus",6
+171,"Game Console",2
+171,"Web Publishing",3
+171,"Project Mgmt",4
+172,"OS",5
+172,"AntiVirus",6
+172,"Game Console",2
+173,"Game Console",3
+174,"Game Console",4
+175,"OS",5
+175,"Office Suite",6
+175,"Visual Studio",2
+175,"AntiVirus",3
+175,"Web Publishing",4
+175,"Project Mgmt",5
+176,"OS",6
+176,"Office Suite",2
+176,"Visual Studio",3
+176,"AntiVirus",4
+176,"Game Console",5
+176,"Web Publishing",6
+176,"Project Mgmt",2
+177,"Office Suite",3
+177,"AntiVirus",4
+177,"Web Publishing",5
+177,"Project Mgmt",6
+178,"Visual Studio",2
+178,"Web Publishing",3
+179,"Office Suite",4
+179,"Visual Studio",5
+179,"AntiVirus",6
+179,"Game Console",2
+179,"Web Publishing",3
+179,"Project Mgmt",4
+180,"OS",5
+180,"Office Suite",6
+180,"Visual Studio",2
+180,"AntiVirus",3
+180,"Game Console",4
+180,"Web Publishing",5
+180,"Project Mgmt",6
+181,"OS",2
+181,"Office Suite",3
+181,"Visual Studio",4
+181,"AntiVirus",5
+181,"Game Console",6
+181,"Web Publishing",2
+181,"Project Mgmt",3
+182,"OS",4
+182,"Office Suite",5
+182,"Visual Studio",6
+182,"AntiVirus",2
+182,"Game Console",3
+182,"Project Mgmt",4
+183,"OS",5
+183,"Office Suite",6
+183,"AntiVirus",2
+183,"Game Console",3
+183,"Web Publishing",4
+183,"Project Mgmt",5
+184,"OS",6
+184,"Office Suite",2
+184,"AntiVirus",3
+184,"Game Console",4
+184,"Web Publishing",5
+184,"Project Mgmt",6
+185,"OS",2
+185,"Office Suite",3
+185,"Visual Studio",4
+185,"AntiVirus",5
+185,"Game Console",6
+185,"Web Publishing",2
+185,"Project Mgmt",3
+186,"OS",4
+186,"Office Suite",5
+186,"Visual Studio",6
+186,"AntiVirus",2
+186,"Game Console",3
+186,"Web Publishing",4
+186,"Project Mgmt",5
+187,"OS",6
+187,"AntiVirus",2
+187,"Web Publishing",3
+188,"AntiVirus",4
+189,"OS",5
+189,"Office Suite",6
+189,"AntiVirus",2
+189,"Game Console",3
+189,"Project Mgmt",4
+190,"OS",5
+190,"Office Suite",6
+190,"Visual Studio",2
+190,"AntiVirus",3
+190,"Game Console",4
+190,"Web Publishing",5
+190,"Project Mgmt",6
+191,"OS",2
+191,"AntiVirus",3
+191,"Game Console",4
+191,"Web Publishing",5
+191,"Project Mgmt",6
+192,"OS",2
+192,"Office Suite",3
+192,"Visual Studio",4
+192,"AntiVirus",5
+192,"Game Console",6
+192,"Web Publishing",2
+192,"Project Mgmt",3
+193,"OS",4
+193,"Office Suite",5
+193,"Visual Studio",6
+193,"AntiVirus",2
+193,"Game Console",3
+193,"Project Mgmt",4
+194,"AntiVirus",5
+195,"Office Suite",6
+195,"Web Publishing",2
+196,"OS",3
+196,"Office Suite",4
+196,"Visual Studio",5
+196,"AntiVirus",6
+196,"Game Console",2
+196,"Web Publishing",3
+197,"OS",4
+197,"Office Suite",5
+197,"Visual Studio",6
+197,"Game Console",2
+197,"Web Publishing",3
+197,"Project Mgmt",4
+198,"OS",5
+198,"AntiVirus",6
+198,"Project Mgmt",2
+199,"Office Suite",3
+199,"Web Publishing",4
+200,"OS",5
+200,"Office Suite",6
+200,"Visual Studio",2
+200,"AntiVirus",3
+200,"Game Console",4
+200,"Web Publishing",5
+200,"Project Mgmt",6
