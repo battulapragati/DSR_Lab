@@ -9,4 +9,4 @@ sales<-cbind(sales_delim,size=vec)
 sales
 ncol(sales)
 colnames(sales)
-write.table(sales,"output.txt",sep="\t",row.names = FALSE)
+write.table(sales,"output.csv",sep=",",row.names =FALSE)
