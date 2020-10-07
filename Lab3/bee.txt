@@ -10,3 +10,4 @@ row.names(dt)<-c('Thistle','Vipers','Golden','Rain','Yellow')
 dt
 str(dt)
 colnames(dt)
+
