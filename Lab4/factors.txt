@@ -1,0 +1,25 @@
+Q)Import a Csv file churn_modelling.csv file   
+facotrize the estimated column to different levels as Low,Mediun and High.
+The conditions are if Estimated value is less than 10000 categorize it as low If the estimated value is above 
+10000 and below 100000 categorize it as medium and if above 100000 categorize it as High Add the factored variable to the origanl dataset and export the file.
+
+
+setwd("C:/Users/Pragati/Desktop/College/DSR/DSR Lab")
+bk<-read.csv("Churn_Modelling.csv.csv")
+bk
+bk$EstimatedSalary
+min(bk$EstimatedSalary)
+max(bk$EstimatedSalary)
+income_group<-vector(mode="character",length=length(bk$EstimatedSalary))
+income_group
+income_group[bk$EstimatedSalary<10000]<-"Low"
+income_group
+income_group[bk$EstimatedSalary>=10000 & bk$EstimatedSalary < 100000]<-"middle"
+income_group[bk$EstimatedSalary>100000]<-"High"
+income_group
+values<-factor(income_group,levels=c("Low","middle","High"),ordered=TRUE)
+values
+bk<-cbind(bk,values)
+bk
+setwd("C:/Users/Pragati/Desktop")
+write.table(bk,"output1.csv",sep=",",row.names =FALSE)
