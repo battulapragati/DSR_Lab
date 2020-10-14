@@ -22,4 +22,4 @@ values
 bk<-cbind(bk,values)
 bk
 setwd("C:/Users/Pragati/Desktop")
-write.table(bk,"output1.csv",sep=",",row.names =FALSE)
+write.table(bk,"factor_output.csv",sep=",",row.names =FALSE)
