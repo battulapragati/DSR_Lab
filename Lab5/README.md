@@ -1,6 +1,7 @@
 Question 1
 Create a Data Frame of three columns EMPID, SALARY, MARTIAL STATUS of 10 values for each column. Draw a boxplot for salary column for different categories of Martial status (Married, Bachelor)
 
+![question1_output](https://user-images.githubusercontent.com/53899365/97420468-5b40d700-1931-11eb-9bbc-6c05f812fe99.png)
 
 
 
