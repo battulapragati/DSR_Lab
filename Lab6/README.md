@@ -7,3 +7,8 @@ Using the dataset Cabbage_Exp(imported from library gcookbook) create a bargraph
 
 Question 2
 Create a dotchart from the Mtcars which is loaded from ggplot2 package.Plot the Y axis by naming the different types of Mtcars against MPG values against x-axis
+
+![2(b)](https://user-images.githubusercontent.com/53899365/98095098-23490f00-1eb0-11eb-9ad0-0848abfc57c0.png)
+
+![2(a)](https://user-images.githubusercontent.com/53899365/98095105-25ab6900-1eb0-11eb-9ed0-4f46e0dc0faa.png)
+
