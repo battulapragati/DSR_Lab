@@ -10,3 +10,6 @@ Question 2
 
 Bottles are produced with mean of 150cc and standard deviation of 2cc. Samples of 100 bottles show mean as 152cc. Has the mean value changed? Check with 95% confidence interval
 
+![2](https://user-images.githubusercontent.com/53899365/98792831-1470d800-242d-11eb-8f7d-8867d65863aa.png)
+
+
