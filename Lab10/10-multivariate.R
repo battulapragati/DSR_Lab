@@ -1,0 +1,7 @@
+sfly<-c(26,23,33,6,3,4,20,2)
+mfly<-c(4,5,12,9,15,10,8,22)
+speed<-c(3,4,4,5,6,7,7,9)
+ivert<-cbind(sfly,mfly)
+spd<-cbind(speed)
+matplot(spd,ivert,type='b',pch=1:2,col=1,lty=2:3,xlab='Speed',ylab='Invertebrate')
+legend(x = 'topright',legend =c('Stonefly','MayFly'),col=1,pch=1:2,lty=2:3)
